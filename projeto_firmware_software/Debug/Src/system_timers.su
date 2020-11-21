@@ -1,0 +1,6 @@
+system_timers.c:11:6:delay_us	0	static
+system_timers.c:17:6:Timer_Init	0	static
+system_timers.c:24:6:Timer_Start	0	static
+system_timers.c:30:6:Timer_Stop	0	static
+system_timers.c:35:6:timeDiff	0	static
+system_timers.c:45:6:Timer_Timeout	8	static

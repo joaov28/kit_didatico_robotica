@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name bluepill_breakouts)(type Legacy)(uri /Users/joaovitorbassani/Downloads/kicad-library-master/library/bluepill_breakouts.lib)(options "")(descr ""))
+  (lib (name kit_robotica_prototipo-cache)(type Legacy)(uri ${KIPRJMOD}/kit_robotica_prototipo-cache.lib)(options "")(descr ""))
+  (lib (name Kit_Robotica_Components)(type Legacy)(uri ${KIPRJMOD}/Kit_Robotica_Components.lib)(options "")(descr ""))
+  (lib (name kit_robotica_prototipo-rescue)(type Legacy)(uri ${KIPRJMOD}/kit_robotica_prototipo-rescue.lib)(options "")(descr ""))
+)

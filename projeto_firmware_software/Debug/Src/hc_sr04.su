@@ -1,0 +1,2 @@
+hc_sr04.c:19:6:HAL_TIM_IC_CaptureCallback	16	static
+hc_sr04.c:46:10:HCSR04_Read	8	static

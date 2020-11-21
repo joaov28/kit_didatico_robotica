@@ -1,0 +1,8 @@
+bmp180.c:45:6:set_oss	32	static
+bmp180.c:121:6:BMP180_Init	72	static
+bmp180.c:134:9:get_ut	48	static
+bmp180.c:151:7:get_temp	16	static
+bmp180.c:175:9:get_up	56	static
+bmp180.c:194:9:get_pressure	20	static
+bmp180.c:232:7:get_altitude	16	static
+bmp180.c:251:6:BMP180_ReadAll	8	static

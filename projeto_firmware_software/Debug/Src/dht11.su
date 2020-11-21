@@ -1,0 +1,6 @@
+dht11.c:14:6:set_gpio_input	24	static
+dht11.c:24:6:set_gpio_output	24	static
+dht11.c:34:6:DHT11_Start	8	static
+dht11.c:42:9:DHT11_CheckResponse	16	static
+dht11.c:57:9:DHT11_Read	24	static
+dht11.c:75:6:DHT11_ReadAll	8	static

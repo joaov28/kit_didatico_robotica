@@ -1,0 +1,12 @@
+system_utils.c:65:6:Buzzer_Routine	0	static
+system_utils.c:80:6:LED_Routine	16	static
+system_utils.c:98:6:LED_ChangeRoutine	64	static
+system_utils.c:139:6:Sensors_Init	8	static
+system_utils.c:57:6:System_Init	8	static
+system_utils.c:145:6:Sensors_Update	48	static
+system_utils.c:176:6:ADC_ReadData	16	static
+system_utils.c:195:6:Battery_UpdateStatus	32	static
+system_utils.c:244:6:UART_CommandsHandle	0	static
+system_utils.c:264:6:UART_RXHandle	16	static
+system_utils.c:296:6:UART_ReadData	8	static
+system_utils.c:305:6:print_debug	80	static

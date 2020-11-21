@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Kit_Robotica)(type KiCad)(uri ${KIPRJMOD}/Kit_Robotica.pretty)(options "")(descr ""))
+  (lib (name kit_robotica_prototipo)(type KiCad)(uri ${KIPRJMOD}/kit_robotica_prototipo.pretty)(options "")(descr ""))
+)

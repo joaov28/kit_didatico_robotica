@@ -1,0 +1,2 @@
+motor_control.c:16:6:Motor_ChangeDirection	8	static
+motor_control.c:90:6:Line_Follower_Update	8	static
